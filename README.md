@@ -9,10 +9,10 @@ _Exploring digital sexism in film reviews_
 + In-depth linguistic analysis of review content, habits, behaviors, and values to uncover the psychological triggers and underlying mechanisms of hate speech.
 
 ## Methodology:
-This research leverages concepts from feminist studies, gender studies, and computational methods to propose a model for profiling users and analyzing reviews. The goal is to offer valuable insights into the detection and understanding of online hate speech and misogyny within film review communities.
+> This research leverages concepts from feminist studies, gender studies, and computational methods to propose a model for profiling users and analyzing reviews. The goal is to offer valuable insights into the detection and understanding of online hate speech and misogyny within film review communities.
 
 ## Why this matters:
-Understanding and addressing online hate speech is crucial for fostering inclusive digital spaces. This research contributes to the development of tools and methodologies for identifying and combating misogyny in online film discussions.
+> Understanding and addressing online hate speech is crucial for fostering inclusive digital spaces. This research contributes to the development of tools and methodologies for identifying and combating misogyny in online film discussions.
 
 ## Contributions:
 
