@@ -2,7 +2,7 @@
 _Exploring digital sexism in film reviews_
 > In the era of digital communication, hate takes on various forms, especially on online platforms, wielding the power to rapidly reach global audiences. This repository hosts a comprehensive study that explores the nuances of digital sexism and online hate speech within film review communities, specifically focusing on IMDb and Letterboxd.
 
-## Key features: 
+## Key features
 + Analysis of thirty-eight films released between 2020 and 2022 with a female lead, a female director, or both.
 + Selection criteria based on the highest-grossing movies in the Domestic Box Office chart on the Box Office Mojo platform.
 + Investigation into misogynistic attitudes expressed by reviewers through computational user categorization.
