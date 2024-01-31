@@ -4,7 +4,7 @@ _Exploring digital sexism in film reviews_
 
 ## Key features
 + Analysis of thirty-eight films released between 2020 and 2022 with a female lead, a female director, or both.
-+ Selection criteria based on the highest-grossing movies in the Domestic Box Office chart on the Box Office Mojo platform.
++ Selection criteria based on the highest-grossing movies in the Domestic Box Office chart on the Box Office Mojo platform with a female director, a female protagonist or both.
 + Investigation into misogynistic attitudes expressed by reviewers through computational user categorization.
 + In-depth linguistic analysis of review content, habits, behaviors, and values to uncover the psychological triggers and underlying mechanisms of hate speech.
 
